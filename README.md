@@ -34,11 +34,13 @@ I'm from the Germany. I love to collaborate on AI projects 💻.
   - LLM, Vector Databases, RAG, AI Agents
 
 ### Languages
-[german flag](assets/germany-flag.svg)
+[<img src="assets/germany-flag.svg" height="50px">]
 
 
 ## 📫 How to reach me
 
 [<img src="assets/email.svg" height="50px">](mailto:ykonka@outlook.com)
 [<img src="assets/discord-icon.svg" height="50px">](https://discord.gg/Nk2jy3Pstf)
-<!--[<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)-->
+<!--
+[<img src="assets/x.png" height="50px">](https://x.com/username)
+-->
