@@ -34,7 +34,7 @@ I'm from the Germany. I love to collaborate on AI projects 💻.
   - LLM, Vector Databases, RAG, AI Agents
 
 ### Languages
-[<img src="assets/germany-flag.svg" height="50px">]
+<img src="assets/germany-flag.svg" height="50px">
 
 
 ## 📫 How to reach me
