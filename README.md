@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yamninikonka/yamninikonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋, my name is Bobby Galli
+<!--
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UxNXrBukjZ)
+[![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bobbyg603)
+-->
+## 🙋‍♂️ About me
+
+![profile view count](https://komarev.com/ghpvc/?username=bobbyg603)
+
+I'm from the Germany. I love to collaborate on AI projects 💻. 
+
+## 🔭 I'm currently open for new position in AI/ML field
+  - AI Developer
+  - AI Engineer
+
+
+## 🌱 I’m currently learning
+### Tech
+  - LLM, Vector Databases, RAG, AI Agents
+
+### Languages
+[chinese flag](assets/chinese-flag-round.svg)
+
+
+## 📫 How to reach me
+
+[<img src="assets/envelope.png" height="50px">](mailto:ykonka@outlook.com)
+[<img src="assets/discord.png" height="50px">](https://discord.gg/Nk2jy3Pstf)
+<!--[<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)-->
