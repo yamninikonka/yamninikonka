@@ -32,6 +32,7 @@ I'm from the Germany. I love to collaborate on AI projects 💻.
 ## 🌱 I’m currently learning
 ### Tech
   - LLM, Vector Databases, RAG, AI Agents
+  - Cloud Platform(GCP)
 
 ### Languages
 <img src="assets/germany-flag.svg" height="50px">
