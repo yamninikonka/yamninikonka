@@ -24,15 +24,17 @@ Here are some ideas to get you started:
 -->
 I'm from the Germany. I love to collaborate on AI projects 💻. 
 
-## 🔭 I'm currently open for new position in AI/ML field
+## 🔭 I'm currently open for new challenges in AI/ML field
   - AI Developer
   - AI Engineer
+  - AI Researcher
 
 
 ## 🌱 I’m currently learning
 ### Tech
   - LLM, Vector Databases, RAG, AI Agents
   - Cloud Platform(GCP)
+  - Big Data
 
 ### Languages
 <img src="assets/germany-flag.svg" height="50px">
